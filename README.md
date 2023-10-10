@@ -1,8 +1,8 @@
 
-#   Riyadh Villas <img src='بيوت الرياض.jpeg' width=60>
+#   Riyadh Villas 
 
 ## Data cleaning :
-<img src='تنظيف البيانات.jpeg' width=100>
+
 
 
 
